@@ -1,6 +1,6 @@
 ## Theoretical Advances on Interval-valued Entropy Addressing - Multi-criteria Decision-making Problems (wa-IvFE)
 
-### Descripton: 
+#### Descripton: 
 
 Métodos:
 
