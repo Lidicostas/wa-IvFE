@@ -4,4 +4,4 @@ Neste repositório estão disponibilizados os metódos implementados, datasets c
 
 
 O método 2 que implemnta a entropia ...., pode ser acessado neste [link](https://github.com/Lidicostas/wa-IvFE/blob/main/Metodo2.m).
-Todos os arquivos disponíveis neste repositório, incluindo os métodos..., podem ser acessados neste [link]()
+Todos os arquivos disponíveis neste repositório, incluindo os métodos..., podem ser acessados neste [link](https://github.com/Lidicostas/wa-IvFE/tree/main).
