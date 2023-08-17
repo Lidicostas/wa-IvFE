@@ -21,21 +21,25 @@ Neste repositório estão disponibilizados os metódos implementados, datasets e
 Dataset A:
 
 [Dataset A - Center of Sets](https://github.com/Lidicostas/wa-IvFE/blob/main/Metodo5.m)
+
 [Dataset A - Centroid](https://github.com/Lidicostas/wa-IvFE/blob/main/Metodo5.m)
 
 Dataset B:
 
 [Dataset B - Center of Sets](https://github.com/Lidicostas/wa-IvFE/blob/main/Metodo5.m)
+
 [Dataset B - Centroid](https://github.com/Lidicostas/wa-IvFE/blob/main/Metodo5.m)
 
 Dataset C:
 
 [Dataset C - Center of Sets](https://github.com/Lidicostas/wa-IvFE/blob/main/Metodo5.m)
+
 [Dataset C - Centroid](https://github.com/Lidicostas/wa-IvFE/blob/main/Metodo5.m)
 
 Dataset D:
 
 [Dataset A - Center of Sets](https://github.com/Lidicostas/wa-IvFE/blob/main/Metodo5.m)
+
 [Dataset A - Centroid](https://github.com/Lidicostas/wa-IvFE/blob/main/Metodo5.m)
 
 
