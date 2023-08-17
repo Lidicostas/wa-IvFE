@@ -44,7 +44,7 @@ Dataset D:
 
 
 #### Tabelas de Resultados:
-
+Resultados da Entropia wA-IvFE aplicada as entradas e saídas dos datasets.
 
 
 
