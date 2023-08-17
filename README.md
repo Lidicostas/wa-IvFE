@@ -3,7 +3,7 @@
 #### Descripton: 
 Neste repositório estão disponibilizados os metódos implementados, datasets e as tabelas com os resultados.
 
-#### Métodos:
+#### Metodologia wa-IvFE:
 
 [Método 1](https://github.com/Lidicostas/wa-IvFE/blob/main/Metodo1.m)
 
