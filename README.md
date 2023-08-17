@@ -10,7 +10,7 @@ Método 3
 Método 4
 Método 5
 
-#### Datasets obtidos a partir do [FuzzyNetClass](http://guaiaca.ufpel.edu.br:8080/handle/prefix/9238):
+#### Datasets obtidos a partir do classificador de tráfico de streaming de vídeo [FuzzyNetClass](http://guaiaca.ufpel.edu.br:8080/handle/prefix/9238):
 
 #### Tabelas de Resultados:
 
