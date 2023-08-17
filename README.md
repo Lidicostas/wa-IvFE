@@ -18,14 +18,25 @@ Neste repositório estão disponibilizados os metódos implementados, datasets e
 
 #### Datasets obtidos a partir da aplicação [FuzzyNetClass](http://guaiaca.ufpel.edu.br:8080/handle/prefix/9238):
 
-Dataset A: 
+Dataset A:
+
 [Dataset A - Center of Sets](https://github.com/Lidicostas/wa-IvFE/blob/main/Metodo5.m)
+[Dataset A - Centroid](https://github.com/Lidicostas/wa-IvFE/blob/main/Metodo5.m)
 
-[Dataset B]
+Dataset B:
 
-[Dataset C]
+[Dataset B - Center of Sets](https://github.com/Lidicostas/wa-IvFE/blob/main/Metodo5.m)
+[Dataset B - Centroid](https://github.com/Lidicostas/wa-IvFE/blob/main/Metodo5.m)
 
-[Dataset D]
+Dataset C:
+
+[Dataset C - Center of Sets](https://github.com/Lidicostas/wa-IvFE/blob/main/Metodo5.m)
+[Dataset C - Centroid](https://github.com/Lidicostas/wa-IvFE/blob/main/Metodo5.m)
+
+Dataset D:
+
+[Dataset A - Center of Sets](https://github.com/Lidicostas/wa-IvFE/blob/main/Metodo5.m)
+[Dataset A - Centroid](https://github.com/Lidicostas/wa-IvFE/blob/main/Metodo5.m)
 
 
 #### Tabelas de Resultados:
