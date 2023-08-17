@@ -4,11 +4,11 @@
 Neste repositório estão disponibilizados os metódos implementados, datasets e as tabelas com os resultados.
 
 #### Métodos:
-Método 1
-Método 2
-Método 3
-Método 4
-Método 5
+[Método 1](https://github.com/Lidicostas/wa-IvFE/blob/main/Metodo1.m)
+[Método 2](https://github.com/Lidicostas/wa-IvFE/blob/main/Metodo2.m)
+[Método 3](https://github.com/Lidicostas/wa-IvFE/blob/main/Metodo3.m)
+[Método 4](https://github.com/Lidicostas/wa-IvFE/blob/main/Metodo4.m)
+[Método 5](https://github.com/Lidicostas/wa-IvFE/blob/main/Metodo5.m)
 
 #### Datasets obtidos a partir da aplicação [FuzzyNetClass](http://guaiaca.ufpel.edu.br:8080/handle/prefix/9238):
 Dataset A
