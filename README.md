@@ -38,9 +38,9 @@ Dataset C:
 
 Dataset D:
 
-[Dataset A - Center of Sets](https://github.com/Lidicostas/wa-IvFE/blob/main/Metodo5.m)
+[Dataset D - Center of Sets](https://github.com/Lidicostas/wa-IvFE/blob/main/Metodo5.m)
 
-[Dataset A - Centroid](https://github.com/Lidicostas/wa-IvFE/blob/main/Metodo5.m)
+[Dataset D - Centroid](https://github.com/Lidicostas/wa-IvFE/blob/main/Metodo5.m)
 
 
 #### Tabelas de Resultados:
